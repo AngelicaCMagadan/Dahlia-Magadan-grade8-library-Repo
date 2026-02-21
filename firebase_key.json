@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dahlia-magadan-library-db",
+  "private_key_id": "eb8c99b23745c58b441817e5921fb38d0266b690",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdLSUxl3YjLprh\nwduJtkr24/BAV4VzYOG4DEyzR/IXhlr7J8g5+FAWKK455aLIPTDtuyotxjIA8vLu\n+5SaY64mvOf9LFq7a6MGdZvPgZGZqcjUSx6ljolThGrh0EkX6cTxqN4Pftj23+yy\nx/ml+iew9aWyp/hMDROkZHmQLEEEjYBKI3LE/7negPXBfiRP8qNuzE9KCcovDTqj\nyYjBPfh/zMrMR4Kb8vfXn9yBMB772qHqSvNfCU6aokbvtwQNafBMkxjo5T1sACHE\ndyCzX7H3V7rQFqFvkiNqrl7NjCIn770jJtqEu5eG2EzBbm6CAIMr/1cz7Zg0T2AK\nJi5p6GLHAgMBAAECggEAU/j58BQjRERDhYcGhQhy+b2cz7Dq991GlYwF6uNb5Nab\n4FNAT9IZBfC4BT9MSF4DH5856lsfTQDwfw+BYgSKcCa0pYibgiDhqmgomeYFk6PE\nneVPY2f0d4ME2Wss9SlKHr4QYS21zjVCNrZ58CxDuYnqOSRQvv8QABAtnzFOFh22\nZOTTxyLTq5wG6Pa1L8aQdWcpflwWECeUyNNVo8Df/jUj7a5fFfsFTUMkngGYuRvR\nKcjHoPZ8rMtYSPeXigzScCnw9ADs3JpiGaDSYLwy7QJ0p5J2QKxEjxzZx7iNmmKl\n0voFkbOAh27VcftZGhulwwgY6/jcFiZ6AXJWZJgSEQKBgQDzo+BTq2I4yvTtMMmT\nu0iGffcnLroJlgNjWP3PMnj1aLZjmEGAXejx8OIz1Lq4H5NlUCiVNOREIEnHnxyX\npg4ad6jNk9VlCjTsry6YzTtuC3Dugp0wuuB81pxbWScaTPlhSj8mSoHHh6Vubioz\nmfoYcJV2OBuwd1aGFpfG+X/xFQKBgQDoZYjZtuFG5nx4yF7Rfx9w/6buZIzCWCmU\n8oTKa3Q1VBECsjMGC6UJtIcxRft5jszCRnKapLivfkaViPHUcgOTMV1EitoMOHuR\nEBFdD926/SbL3sdOT04bQc8g75Dd7hizKO5difN/gpcXMSl9QKniCADKvTS8jpXf\nsXWB5EXjawKBgQCUthg8ucVQKQFqrXa8h3nzLXvoHKtNIpWa1DzHdWVDVdDN5adF\ndQy0cHWBcX0u2YccNdsvh4M02ghuof3PynmdSiBsqql77Mj1FtB4T/zQZIdf7bWI\nguh3Cn+Rek9VzFoDOlBlTOD+Kxuc1f1IVdnDhSSVbhXolk7ntW6a8rtXKQKBgDzK\nKnUAwIbiTZbumtbkEN5nEUx0otlHZIEguxmT6A73EYgKAwzGyQHz5hU+gBx4/Rio\ngtvu0JyfRGljLBbtSAAdvo7qX0UpFTGJ6XDVcKO0CozzlmDmn8DDgyHTaKqU2IMs\n5sUzC63EBC+93WN1IbsNat+dhIj6JzwfWGSEyL9HAoGBAOT8Dbs+INAMr6Jl6Mbb\nyMRWN0lNum85iNFBn2+dc+dMJxd/cqSFFwcvnqIkyTQ3kbNa8JbiLEmYwa2HAFpH\nIEWLkiHlPdFLVYkyQtC13zlhKJlHGyVMIZllRea8nrr2HziEYNkwCbhsWR0dZtto\ncbliFIm7y0vRWOYFA1IkuZCG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@dahlia-magadan-library-db.iam.gserviceaccount.com",
+  "client_id": "116392923576722566608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40dahlia-magadan-library-db.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
